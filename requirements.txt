@@ -4,3 +4,7 @@ protobuf==3.20.3
 PyPDF2==3.0.1
 reportlab==3.6.6
 streamlit==1.43.1
+libpango1.0-dev
+libharfbuzz-dev
+libcairo2-dev
+
